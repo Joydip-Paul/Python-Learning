@@ -1,6 +1,6 @@
-name = input("What's your name?")
-age = input("How old are you?")
+name = "Joydip" #STRING
+age = 20 #NUMBER
+height = 5.10 #FLOAT
+is_student = True #BOOLEAN
 
-print("Hello", name)
-print("Your Age", age)
-
+print(name, age, height, is_student)
